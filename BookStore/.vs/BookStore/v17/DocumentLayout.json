@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|c:\\users\\hesha\\documents\\csharp\\bookstore\\bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|c:\\users\\hesha\\documents\\csharp\\bookstore\\bookstore\\paperbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\paperbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|c:\\users\\hesha\\documents\\csharp\\bookstore\\bookstore\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|c:\\users\\hesha\\documents\\csharp\\bookstore\\bookstore\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\mailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|c:\\users\\hesha\\documents\\csharp\\bookstore\\bookstore\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|c:\\users\\hesha\\documents\\csharp\\bookstore\\bookstore\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|c:\\users\\hesha\\documents\\csharp\\bookstore\\bookstore\\ibookdeliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\ibookdeliveryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|c:\\users\\hesha\\documents\\csharp\\bookstore\\bookstore\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|c:\\users\\hesha\\documents\\csharp\\bookstore\\bookstore\\showcasedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0FB817-5B0F-4B1D-8245-659274C8EE01}|BookStore\\BookStore.csproj|solutionrelative:bookstore\\showcasedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 253,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IBookDeliveryService.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\IBookDeliveryService.cs",
+              "RelativeDocumentMoniker": "BookStore\\IBookDeliveryService.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\IBookDeliveryService.cs",
+              "RelativeToolTip": "BookStore\\IBookDeliveryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:44:42.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookStore.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\BookStore.cs",
+              "RelativeDocumentMoniker": "BookStore\\BookStore.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\BookStore.cs",
+              "RelativeToolTip": "BookStore\\BookStore.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T17:11:38.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailService.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\MailService.cs",
+              "RelativeDocumentMoniker": "BookStore\\MailService.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\MailService.cs",
+              "RelativeToolTip": "BookStore\\MailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:58:54.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShippingService.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\ShippingService.cs",
+              "RelativeDocumentMoniker": "BookStore\\ShippingService.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\ShippingService.cs",
+              "RelativeToolTip": "BookStore\\ShippingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:58:53.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowcaseDemo.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\ShowcaseDemo.cs",
+              "RelativeDocumentMoniker": "BookStore\\ShowcaseDemo.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\ShowcaseDemo.cs",
+              "RelativeToolTip": "BookStore\\ShowcaseDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:41:46.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EBook.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\EBook.cs",
+              "RelativeDocumentMoniker": "BookStore\\EBook.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\EBook.cs",
+              "RelativeToolTip": "BookStore\\EBook.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:41:46.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaperBook.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\PaperBook.cs",
+              "RelativeDocumentMoniker": "BookStore\\PaperBook.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\PaperBook.cs",
+              "RelativeToolTip": "BookStore\\PaperBook.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:41:46.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\Book.cs",
+              "RelativeDocumentMoniker": "BookStore\\Book.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\Book.cs",
+              "RelativeToolTip": "BookStore\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:41:45.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\Program.cs",
+              "RelativeDocumentMoniker": "BookStore\\Program.cs",
+              "ToolTip": "C:\\Users\\hesha\\Documents\\CSharp\\BookStore\\BookStore\\Program.cs",
+              "RelativeToolTip": "BookStore\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwAsAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T16:32:47.534Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

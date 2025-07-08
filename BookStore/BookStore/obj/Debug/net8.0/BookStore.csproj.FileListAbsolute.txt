@@ -1,0 +1,14 @@
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\bin\Debug\net8.0\BookStore.exe
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\bin\Debug\net8.0\BookStore.deps.json
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\bin\Debug\net8.0\BookStore.runtimeconfig.json
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\bin\Debug\net8.0\BookStore.dll
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\bin\Debug\net8.0\BookStore.pdb
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\obj\Debug\net8.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\obj\Debug\net8.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\obj\Debug\net8.0\BookStore.AssemblyInfo.cs
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\obj\Debug\net8.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\obj\Debug\net8.0\BookStore.dll
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\obj\Debug\net8.0\refint\BookStore.dll
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\obj\Debug\net8.0\BookStore.pdb
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\obj\Debug\net8.0\BookStore.genruntimeconfig.cache
+C:\Users\hesha\Documents\CSharp\BookStore\BookStore\obj\Debug\net8.0\ref\BookStore.dll
