@@ -16,11 +16,6 @@ It also supports inventory management and automatic removal of outdated books.
 - Remove outdated books from inventory (based on age).
 
 ---
-## 📸 Sample Output
-
-![Console Output](assets/Screenshot.png)
-
----
 ## ✅ Design Principles Used
 
 | Principle | Description |
