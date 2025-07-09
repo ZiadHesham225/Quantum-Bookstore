@@ -22,7 +22,7 @@ It also supports inventory management and automatic removal of outdated books.
 |----------|-------------|
 | **Single Responsibility Principle (SRP)** | Each class has a well-defined responsibility (Book, Inventory, Delivery, etc.). |
 | **Open/Closed Principle (OCP)** | You can add new book or delivery types without modifying existing code. |
-| **Dependency Inversion Principle (DIP)** | The `Book` class depends on an abstraction `IBookDeliveryStrategy`, not concrete services. |
+| **Dependency Inversion Principle (DIP)** | The `Book` class depends on an abstraction `IBookDeliveryService`, not concrete services. |
 
 ---
 
