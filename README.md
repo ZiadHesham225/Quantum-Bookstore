@@ -17,7 +17,7 @@ It also supports inventory management and automatic removal of outdated books.
 
 ---
 ## Screenshot
-![Output](assets/screenshot.png)
+![Output](assets/Screenshot.png)
 ---
 ## Design Principles Used
 
