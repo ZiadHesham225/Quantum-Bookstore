@@ -10,11 +10,11 @@ namespace BookStore
     {
         public string FileType { get; }
 
-        public EBook(string isbn, string title, int year, decimal price, string fileType, IBookDeliveryService deliveryService)
+        public EBook(string isbn, string title, int year, decimal price, string fileType)
             : base(isbn, title, year, price)
         {
             FileType = fileType;
-            DeliveryService = deliveryService;
+            DeliveryService = new MailService();
         }
 
         public override void Buy(int quantity, string email, string address)

@@ -11,11 +11,11 @@ namespace BookStore
     {
         public int Stock { get; private set; }
 
-        public PaperBook(string isbn, string title, int year, decimal price, int stock, IBookDeliveryService deliveryService)
+        public PaperBook(string isbn, string title, int year, decimal price, int stock)
             : base(isbn, title, year, price)
         {
             Stock = stock;
-            DeliveryService = deliveryService;
+            DeliveryService = new ShippingService();
         }
 
         public override void Buy(int quantity, string email, string address)

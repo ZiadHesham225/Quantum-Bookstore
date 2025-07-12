@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace BookStore
 {
-    class BookStore
+    class Inventory
     {
         private Dictionary<string, Book> books;
         private int outdatedYears = 5;
-        public BookStore()
+        public Inventory()
         {
             books = new Dictionary<string, Book>();
         }
