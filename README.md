@@ -1,4 +1,4 @@
-# 📚 Quantum Bookstore Console App
+#  Quantum Bookstore Console App
 
 A simple C# console application simulating a bookstore system with support for multiple types of books (PaperBook, EBook, ShowcaseBook).  
 The app allows users to buy books and handles delivery via different strategies (shipping or email).  
@@ -6,7 +6,7 @@ It also supports inventory management and automatic removal of outdated books.
 
 ---
 
-## 🧠 Project Overview
+## Project Overview
 
 ### Features:
 - Add various types of books to inventory.
@@ -16,7 +16,10 @@ It also supports inventory management and automatic removal of outdated books.
 - Remove outdated books from inventory (based on age).
 
 ---
-## ✅ Design Principles Used
+## Screenshot
+![Output](assets/screenshot.png)
+---
+## Design Principles Used
 
 | Principle | Description |
 |----------|-------------|
@@ -26,7 +29,7 @@ It also supports inventory management and automatic removal of outdated books.
 
 ---
 
-## 🎯 Design Patterns Used
+## Design Patterns Used
 
 | Pattern | Purpose |
 |--------|---------|
@@ -35,7 +38,7 @@ It also supports inventory management and automatic removal of outdated books.
 ---
 
 
-## 🛠 Requirements
+## Requirements
 
 - .NET SDK **6.0** or higher  
 - A C# IDE like:
